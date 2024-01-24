@@ -2754,11 +2754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\mathe\\Documents\\RECODE\\dotnet\\API-recode\\apisv\\apisv.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\Documents\\RECODE\\dotnet\\API-recode\\apisv\\apisv.csproj",
       "projectName": "apisv",
-      "projectPath": "c:\\Users\\mathe\\Documents\\RECODE\\dotnet\\API-recode\\apisv\\apisv.csproj",
+      "projectPath": "C:\\Users\\mathe\\Documents\\RECODE\\dotnet\\API-recode\\apisv\\apisv.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\mathe\\Documents\\RECODE\\dotnet\\API-recode\\apisv\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\Documents\\RECODE\\dotnet\\API-recode\\apisv\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2833,7 +2833,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

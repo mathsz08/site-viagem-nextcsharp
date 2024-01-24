@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apisv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+522c8ad7d2d25fb8fce1236116d4d7db07bceb7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("apisv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apisv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
